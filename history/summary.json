@@ -1,7 +1,7 @@
 [
   {
     "name": "GameBrosting",
-    "url": "brodino.net",
+    "url": "direct.brodino.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-brosting",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-11-26": 3
+      "2024-11-26": 19
     }
   }
 ]
