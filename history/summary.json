@@ -4,7 +4,7 @@
     "url": "https://brodino.net/",
     "icon": "https://icons.duckduckgo.com/ip3/brodino.net.ico",
     "slug": "game-brosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 990,
     "timeYear": 934,
     "dailyMinutesDown": {
+      "2025-01-01": 0,
       "2024-12-03": 29,
       "2024-11-28": 20,
       "2024-11-26": 24
