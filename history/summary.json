@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/brodino.net.ico",
     "slug": "game-brosting",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
-    "time": 1700,
-    "timeDay": 544,
-    "timeWeek": 1322,
-    "timeMonth": 833,
-    "timeYear": 1816,
+    "time": 1699,
+    "timeDay": 990,
+    "timeWeek": 781,
+    "timeMonth": 844,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2025-12-02": 335,
       "2025-12-01": 992,
@@ -50,8 +50,7 @@
       "2025-04-09": 20,
       "2025-04-04": 49,
       "2025-04-02": 540,
-      "2025-04-01": 44,
-      "2025-01-22": 117
+      "2025-04-01": 44
     }
   }
 ]
